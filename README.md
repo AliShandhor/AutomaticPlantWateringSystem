@@ -14,7 +14,6 @@ The project follows a well-planned approach with a flowchart guiding the develop
 ## Components List
 ### Hardware Components
 ![board](https://github.com/AliShandhor/AutomaticPlantWateringSystem/assets/132630605/650803cf-d3ef-442e-850d-78f277760dde)
-
 https://m.media-amazon.com/images/I/710xRE71PSL._AC_UF894,1000_QL80_.jpg
 - Arduino Grove Board: Facilitates hardware-software interaction.
 - Pump: Dispenses water.
