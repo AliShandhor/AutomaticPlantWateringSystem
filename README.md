@@ -1,7 +1,4 @@
 # Automatic Watering Plant System - Report
-
-## Author Information
-- **Author:** Ali Shandhor
 ## Abstract
 This project involves the creation of an automatic watering plant system that waters plants based on their moisture state (dry or wet). The system is programmed in Java using IntelliJ IDE and utilizes an Arduino board with main components like a pump, MOSFET, and a moisture sensor.
 
