@@ -21,7 +21,7 @@ The project follows a well-planned approach with a flowchart guiding the develop
 - Moisture Sensor: Measures soil moisture levels.
 - Spill Trays: Collect water and house the pump.
 - OLED Screen: Displays information from the program.
-
+- ![image](https://github.com/AliShandhor/AutomaticPlantWateringSystem/assets/132630605/7418cce4-c723-4521-b497-07e6a9f4ca10)
 ### Software Components
 - Arduino (Standard Firmata): Connects Arduino board to IntelliJ for Java programming.
 - Firmata4j Library: Provides commands to interface with Arduino using IntelliJ.
