@@ -13,6 +13,7 @@ The project follows a well-planned approach with a flowchart guiding the develop
 
 ## Components List
 ### Hardware Components
+https://m.media-amazon.com/images/I/710xRE71PSL._AC_UF894,1000_QL80_.jpg
 - Arduino Grove Board: Facilitates hardware-software interaction.
 - Pump: Dispenses water.
 - Pipe: Transfers water from the pump.
