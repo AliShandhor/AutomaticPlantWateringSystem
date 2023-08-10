@@ -32,7 +32,8 @@ The experiment involves utilizing the standard firmata to connect the Arduino bo
 
 ## Testing
 Initial testing was crucial, especially regarding pump and moisture sensor functionality. Separate projects were created to isolate and verify these components. Only after confirming their reliability were they integrated into the main project. Similar testing was conducted for the OLED screen's data display. Combined testing and modifications of conditional statements based on soil moisture readings ensured smooth pump control.
-Project Video Link: https://www.youtube.com/watch?v=PnX_cs5WN2o
+
+**Project Video Link:** https://www.youtube.com/watch?v=PnX_cs5WN2o
 ## Learning Outcomes
 The project effectively demonstrates key learning outcomes. It showcases the ability to debug and execute ideas, formulate strategies, and solve defined problems. Firmata4j and Java are employed to establish Arduino-IntelliJ integration. An event-driven application effectively manages the pump and sensor, responding to moisture levels. The project employs object-oriented programming principles, applies engineering concepts, and has applications in agricultural engineering.
 
